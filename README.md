@@ -2,6 +2,14 @@
 ## Report summary 
 <img src="Screenshot 2024-06-29 000847.png" width="700">
 
-##  UVM Testbench structure
+##  UVM Testbench Structure
 
 <img src="Screenshot 2024-06-29 001400.png" width="700">
+
+##  UVM Testbench Structure
+
+<img src="Screenshot 2024-06-29 001448.png" width="700">
+
+##  UVM Testbench Structure
+
+<img src="Screenshot 2024-06-29 001524.png" width="700">
